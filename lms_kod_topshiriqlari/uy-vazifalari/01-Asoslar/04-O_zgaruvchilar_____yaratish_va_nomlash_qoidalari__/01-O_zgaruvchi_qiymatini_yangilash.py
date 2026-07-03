@@ -1,1 +1,2 @@
-gn
+print("Boshlandi")
+print("Tugadi")
