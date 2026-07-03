@@ -1,1 +1,1 @@
-wa
+print(f"Men Python o'rganyapman!")
