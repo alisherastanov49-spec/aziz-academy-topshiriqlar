@@ -1,1 +1,1 @@
-fw
+print("Salom dunyo!")
