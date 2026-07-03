@@ -1,1 +1,1 @@
-wr
+print("olma, banan, uzum")
