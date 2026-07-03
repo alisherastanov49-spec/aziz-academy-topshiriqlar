@@ -1,1 +1,1 @@
-fwfwa
+print("A-B-C -> Yakun")
