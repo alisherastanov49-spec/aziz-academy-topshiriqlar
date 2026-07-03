@@ -1,1 +1,6 @@
-af
+print("*")
+print("  ***")
+print(" *****")
+print("*******")
+print("   |")
+print("   |")
