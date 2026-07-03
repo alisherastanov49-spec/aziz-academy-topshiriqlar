@@ -1,1 +1,1 @@
-r
+print("Salom, dunyo!")
