@@ -1,1 +1,1 @@
-reqw
+print(f"Python juda kuchli til")
