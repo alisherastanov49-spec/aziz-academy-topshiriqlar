@@ -1,1 +1,1 @@
-fds c
+print("Ism: Aziz")
