@@ -1,1 +1,2 @@
-t34653
+print("Salom, dunyo!")
+print("Python tili")
