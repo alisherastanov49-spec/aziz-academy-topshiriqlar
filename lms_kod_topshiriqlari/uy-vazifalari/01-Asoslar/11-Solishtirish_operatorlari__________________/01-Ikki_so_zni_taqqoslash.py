@@ -1,0 +1,6 @@
+word1 = input().strip()
+word2 = input().strip()
+are_anagrams = sorted(word1) == sorted(word2)
+print(are_anagrams)
+are_lengths_equal = len(word1) == len(word2)
+print(are_lengths_equal)
