@@ -4,32 +4,35 @@
 
 ## 📊 Umumiy progress
 
-`████░░░░░░░░░░░░░░░░` **18%**  (33/179 mavzu)
+`█░░░░░░░░░░░░░░░░░░░` **3%**  (6/179 mavzu)
 
-- ⭐ Jami ball: **16254**
-- 📤 GitHubga yuborilgan topshiriqlar: **123**
+- ⭐ Jami ball: **17489**
+- 📤 GitHubga yuborilgan topshiriqlar: **124**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 6 — Funksiyalar** → **Parametr va argumentlar — positional vs named**
+**MODUL 1 — Asoslar** → **Bool va mantiq — True/False, mantiqiy ifodalar**
 
-➡️ Keyingi mavzu: *Default parametrlar — def f(x=10)*
+➡️ Keyingi mavzu: *O'rnatish va muhit — Python, interpreter, IDE sozlash*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
-- ✅ Funksiyaga kirish ⭐ — def, parametr, return
-- ✅ Parametr va argumentlar — positional vs named  ← yetgan joyingiz
-- ⬜ Default parametrlar — def f(x=10)
-- ⬜ *args va **kwargs ⭐ — cheksiz argumentlar
-- ⬜ Scope ⭐ — local vs global, global kalit so'zi
-- ⬜ Toza funksiya yozish — bitta vazifa, qisqa, tushunarli nom
-- ⬜ Lambda funksiyalar — anonim funksiyalar, qachon ishlatish
-- ⬜ map, filter, sorted(key=...) — funksional yondashuv
-- ⬜ Rekursiya — kirish ⭐ — faktorial, Fibonacci
-- ⬜ Rekursiya — chuqurroq — base case, stack
-- ⬜ 🛠 Loyiha: Funksiyalar kutubxonasi — utility funksiyalar
-- ⬜ Mustahkamlash 🔁 — funksiyalar bo'yicha murakkab masalalar
+- ✅ Dasturlashga kirish — Python nima va nega o'rganamiz
+- ⬜ O'rnatish va muhit — Python, interpreter, IDE sozlash
+- ✅ Birinchi dastur ⭐ — print() va kommentlar
+- ✅ O'zgaruvchilar ⭐ — yaratish va nomlash qoidalari (snake_case)
+- ✅ Sonlar: int va float — butun va kasr sonlar
+- ✅ Stringlar — kirish: matn, qo'shtirnoqlar, len()
+- ✅ Bool va mantiq — True/False, mantiqiy ifodalar  ← yetgan joyingiz
+- ⬜ input() bilan ishlash ⭐ — foydalanuvchidan ma'lumot olish
+- ⬜ Arifmetik operatorlar — + - * / // % ** va prioritet
+- ⬜ Mantiqiy operatorlar — and, or, not
+- ⬜ Solishtirish operatorlari — == != > < >= <=
+- ⬜ Type casting ⭐ — type(), int(), float(), str(), bool()
+- ⬜ 🛠 Mini-loyiha: Kalkulyator — ikki son ustida amallar (CLI)
+- ⬜ Kod madaniyati: PEP8 — bo'sh joy, nomlash, o'qiluvchanlik
+- ⬜ Xatolik turlari 🔁 — syntax vs runtime, xatoni o'qish
 
 </details>
 
@@ -37,12 +40,12 @@
 
 | # | Modul | Progress | Mavzular |
 |---|-------|----------|----------|
-| 1 | 🔸 Asoslar | `████████░░` 80% | 12/15 |
+| 1 | 🔸 Asoslar | `████░░░░░░` 40% | 6/15 |
 | 2 | ⬜ Stringlar va Formatlash | `░░░░░░░░░░` 0% | 0/10 |
-| 3 | 🔸 Shartlar va Sikllar | `███████░░░` 73% | 11/15 |
-| 4 | 🔸 Ma'lumot Tuzilmalari | `███░░░░░░░` 28% | 5/18 |
-| 5 | 🔸 Comprehensions | `██████░░░░` 60% | 3/5 |
-| 6 | 🔸 Funksiyalar | `██░░░░░░░░` 17% | 2/12 |
+| 3 | ⬜ Shartlar va Sikllar | `░░░░░░░░░░` 0% | 0/15 |
+| 4 | ⬜ Ma'lumot Tuzilmalari | `░░░░░░░░░░` 0% | 0/18 |
+| 5 | ⬜ Comprehensions | `░░░░░░░░░░` 0% | 0/5 |
+| 6 | ⬜ Funksiyalar | `░░░░░░░░░░` 0% | 0/12 |
 | 7 | ⬜ Modullar va Fayllar | `░░░░░░░░░░` 0% | 0/15 |
 | 8 | ⬜ Xatolar, Test va Debug | `░░░░░░░░░░` 0% | 0/11 |
 | 9 | ⬜ OOP (Obyektga Yo'naltirilgan Dasturlash) | `░░░░░░░░░░` 0% | 0/18 |
@@ -60,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-10 09:55</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-13 08:53</sub>
