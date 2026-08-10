@@ -1,0 +1,7 @@
+ism = input()
+yosh = input()
+ism2 = input()
+yosh2 = input()
+print(f"Ism\tYosh")
+print(f"{ism}\t{yosh}")
+print(f"{ism2}\t{yosh2}")
