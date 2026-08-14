@@ -4,27 +4,27 @@
 
 ## 📊 Umumiy progress
 
-`███░░░░░░░░░░░░░░░░░` **16%**  (28/179 mavzu)
+`████░░░░░░░░░░░░░░░░` **18%**  (32/179 mavzu)
 
-- ⭐ Jami ball: **46161**
-- 📤 GitHubga yuborilgan topshiriqlar: **318**
+- ⭐ Jami ball: **48728**
+- 📤 GitHubga yuborilgan topshiriqlar: **319**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 3 — Shartlar va Sikllar** → **🛠 Shartli menyu — oddiy CLI menyu**
+**MODUL 3 — Shartlar va Sikllar** → **for bilan kolleksiyalar — string/list bo'ylab yurish**
 
-➡️ Keyingi mavzu: *while sikli ⭐ — shartga asoslangan takrorlash*
+➡️ Keyingi mavzu: *Pattern chizish — yulduzchalar, uchburchaklar (nested loop)*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
 - ✅ if / elif / else ⭐ — shart operatorlari asoslari
 - ✅ Ichma-ich shartlar (nested if) — mantiqni tartiblash
-- ✅ 🛠 Shartli menyu — oddiy CLI menyu  ← yetgan joyingiz
-- ⬜ while sikli ⭐ — shartga asoslangan takrorlash
-- ⬜ break va continue — sikldan chiqish va o'tkazib yuborish
-- ⬜ for va range() ⭐ — ketma-ket takrorlash
-- ⬜ for bilan kolleksiyalar — string/list bo'ylab yurish
+- ✅ 🛠 Shartli menyu — oddiy CLI menyu
+- ✅ while sikli ⭐ — shartga asoslangan takrorlash
+- ✅ break va continue — sikldan chiqish va o'tkazib yuborish
+- ✅ for va range() ⭐ — ketma-ket takrorlash
+- ✅ for bilan kolleksiyalar — string/list bo'ylab yurish  ← yetgan joyingiz
 - ⬜ Pattern chizish — yulduzchalar, uchburchaklar (nested loop)
 - ⬜ Filtrlash — juft sonlar, musbat sonlar ajratish
 - ⬜ Hisoblash ⭐ — max, min, yig'indi, o'rtacha
@@ -42,7 +42,7 @@
 |---|-------|----------|----------|
 | 1 | ✅ Asoslar | `██████████` 100% | 15/15 |
 | 2 | ✅ Stringlar va Formatlash | `██████████` 100% | 10/10 |
-| 3 | 🔸 Shartlar va Sikllar | `██░░░░░░░░` 20% | 3/15 |
+| 3 | 🔸 Shartlar va Sikllar | `█████░░░░░` 47% | 7/15 |
 | 4 | ⬜ Ma'lumot Tuzilmalari | `░░░░░░░░░░` 0% | 0/18 |
 | 5 | ⬜ Comprehensions | `░░░░░░░░░░` 0% | 0/5 |
 | 6 | ⬜ Funksiyalar | `░░░░░░░░░░` 0% | 0/12 |
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-08-13 05:45</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-08-14 09:28</sub>
