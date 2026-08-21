@@ -1,0 +1,5 @@
+n = int(input())
+lst = list(map(int, input().split()))
+first_item = lst.pop(0)
+print(first_item)
+print(lst)
