@@ -1,0 +1,2 @@
+x = {int(x): int(x)**3 for x in input().split()}
+print(x)
