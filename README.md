@@ -4,25 +4,32 @@
 
 ## 📊 Umumiy progress
 
-`█████░░░░░░░░░░░░░░░` **27%**  (49/179 mavzu)
+`██████░░░░░░░░░░░░░░` **30%**  (53/179 mavzu)
 
-- ⭐ Jami ball: **91394**
-- 📤 GitHubga yuborilgan topshiriqlar: **686**
+- ⭐ Jami ball: **93609**
+- 📤 GitHubga yuborilgan topshiriqlar: **687**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 5 — Comprehensions** → **Set comprehension — takrorlanmas natijalar**
+**MODUL 6 — Funksiyalar** → **Funksiyaga kirish ⭐ — def, parametr, return**
 
-➡️ Keyingi mavzu: *🛠 Amaliy: Ma'lumotni qayta ishlash — comprehension bilan tozalash*
+➡️ Keyingi mavzu: *Parametr va argumentlar — positional vs named*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
-- ✅ List comprehension — kirish ⭐ — [x for x in ...]
-- ✅ List comprehension — shartli — [x for x in ... if ...]
-- ✅ Dict comprehension — mapping va filtrlash
-- ✅ Set comprehension — takrorlanmas natijalar  ← yetgan joyingiz
-- ⬜ 🛠 Amaliy: Ma'lumotni qayta ishlash — comprehension bilan tozalash
+- ✅ Funksiyaga kirish ⭐ — def, parametr, return  ← yetgan joyingiz
+- ⬜ Parametr va argumentlar — positional vs named
+- ⬜ Default parametrlar — def f(x=10)
+- ⬜ *args va **kwargs ⭐ — cheksiz argumentlar
+- ⬜ Scope ⭐ — local vs global, global kalit so'zi
+- ⬜ Toza funksiya yozish — bitta vazifa, qisqa, tushunarli nom
+- ⬜ Lambda funksiyalar — anonim funksiyalar, qachon ishlatish
+- ⬜ map, filter, sorted(key=...) — funksional yondashuv
+- ⬜ Rekursiya — kirish ⭐ — faktorial, Fibonacci
+- ⬜ Rekursiya — chuqurroq — base case, stack
+- ⬜ 🛠 Loyiha: Funksiyalar kutubxonasi — utility funksiyalar
+- ⬜ Mustahkamlash 🔁 — funksiyalar bo'yicha murakkab masalalar
 
 </details>
 
@@ -30,12 +37,12 @@
 
 | # | Modul | Progress | Mavzular |
 |---|-------|----------|----------|
-| 1 | 🔸 Asoslar | `█████████░` 87% | 13/15 |
+| 1 | ✅ Asoslar | `██████████` 100% | 15/15 |
 | 2 | 🔸 Stringlar va Formatlash | `██████░░░░` 60% | 6/10 |
 | 3 | 🔸 Shartlar va Sikllar | `█████░░░░░` 53% | 8/15 |
 | 4 | ✅ Ma'lumot Tuzilmalari | `██████████` 100% | 18/18 |
-| 5 | 🔸 Comprehensions | `████████░░` 80% | 4/5 |
-| 6 | ⬜ Funksiyalar | `░░░░░░░░░░` 0% | 0/12 |
+| 5 | ✅ Comprehensions | `██████████` 100% | 5/5 |
+| 6 | 🔸 Funksiyalar | `█░░░░░░░░░` 8% | 1/12 |
 | 7 | ⬜ Modullar va Fayllar | `░░░░░░░░░░` 0% | 0/15 |
 | 8 | ⬜ Xatolar, Test va Debug | `░░░░░░░░░░` 0% | 0/11 |
 | 9 | ⬜ OOP (Obyektga Yo'naltirilgan Dasturlash) | `░░░░░░░░░░` 0% | 0/18 |
@@ -53,4 +60,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-09-18 16:32</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-09-19 15:19</sub>
